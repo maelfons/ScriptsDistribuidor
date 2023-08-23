@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: B2BCE
 permalink: /B2BCE/
 ---
